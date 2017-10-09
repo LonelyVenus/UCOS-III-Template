@@ -1,0 +1,7 @@
+cpu_c.c:131:7:CPU_BitBandClr	24	static
+cpu_c.c:174:7:CPU_BitBandSet	24	static
+cpu_c.c:248:7:CPU_IntSrcDis	24	static
+cpu_c.c:337:7:CPU_IntSrcEn	24	static
+cpu_c.c:436:7:CPU_IntSrcPendClr	24	static
+cpu_c.c:508:7:CPU_IntSrcPrioSet	32	static
+cpu_c.c:643:13:CPU_IntSrcPrioGet	40	static

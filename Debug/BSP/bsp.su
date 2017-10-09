@@ -1,0 +1,10 @@
+bsp.c:163:7:BSP_Init	8	static
+bsp.c:261:13:BSP_CPU_ClkFreq	32	static
+bsp.c:296:15:BSP_LED_Init	16	static
+bsp.c:340:7:BSP_LED_On	16	static
+bsp.c:391:7:BSP_LED_Off	16	static
+bsp.c:442:7:BSP_LED_Toggle	24	static
+bsp.c:513:15:BSP_StatusInit	16	static
+bsp.c:542:14:BSP_StatusRd	24	static
+bsp.c:669:7:CPU_TS_TmrInit	16	static
+bsp.c:768:13:CPU_TS_TmrRd	4	static

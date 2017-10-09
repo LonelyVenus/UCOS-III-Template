@@ -1,0 +1,6 @@
+stm32f10x_systick.c:43:6:SysTick_CLKSourceConfig	16	static
+stm32f10x_systick.c:66:6:SysTick_SetReload	16	static
+stm32f10x_systick.c:85:6:SysTick_CounterCmd	16	static
+stm32f10x_systick.c:112:6:SysTick_ITConfig	16	static
+stm32f10x_systick.c:134:5:SysTick_GetCounter	4	static
+stm32f10x_systick.c:150:12:SysTick_GetFlagStatus	32	static

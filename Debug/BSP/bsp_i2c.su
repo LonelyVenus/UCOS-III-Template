@@ -1,0 +1,11 @@
+bsp_i2c.c:252:14:BSP_I2C_Init	64	static
+bsp_i2c.c:435:22:BSP_I2C_StartXfer	32	static
+bsp_i2c.c:522:14:BSP_I2C_Rd	32	static
+bsp_i2c.c:574:14:BSP_I2C_Wr	32	static
+bsp_i2c.c:626:14:BSP_I2C_WrRd	32	static
+bsp_i2c.c:671:15:BSP_I2C1_EventISR_Handler	8	static
+bsp_i2c.c:676:15:BSP_I2C2_EventISR_Handler	8	static
+bsp_i2c.c:701:7:BSP_I2Cx_EventISR_Handler	32	static
+bsp_i2c.c:884:15:BSP_I2C1_ErrISR_Handler	8	static
+bsp_i2c.c:890:15:BSP_I2C2_ErrISR_Handler	8	static
+bsp_i2c.c:915:15:BSP_I2Cx_ErrISR_Handler	32	static

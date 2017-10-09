@@ -1,0 +1,12 @@
+stm32f10x_dac.c:59:6:DAC_DeInit	8	static
+stm32f10x_dac.c:81:6:DAC_Init	24	static
+stm32f10x_dac.c:118:6:DAC_StructInit	16	static
+stm32f10x_dac.c:146:6:DAC_Cmd	16	static
+stm32f10x_dac.c:176:6:DAC_DMACmd	16	static
+stm32f10x_dac.c:206:6:DAC_SoftwareTriggerCmd	16	static
+stm32f10x_dac.c:233:6:DAC_DualSoftwareTriggerCmd	16	static
+stm32f10x_dac.c:266:6:DAC_WaveGenerationCmd	24	static
+stm32f10x_dac.c:298:6:DAC_SetChannel1Data	16	static
+stm32f10x_dac.c:321:6:DAC_SetChannel2Data	16	static
+stm32f10x_dac.c:347:6:DAC_SetDualChannelData	24	static
+stm32f10x_dac.c:380:5:DAC_GetDataOutputValue	16	static

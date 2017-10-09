@@ -1,0 +1,17 @@
+bsp_uart.c:127:6:UartInit	16	static
+bsp_uart.c:143:6:UartGpioRccIrqConfig	24	static
+bsp_uart.c:234:6:UartOpen	64	static
+bsp_uart.c:289:6:UartIsRecive	16	static
+bsp_uart.c:302:7:UartClose	16	static
+bsp_uart.c:350:6:UartClearBuff	16	static
+bsp_uart.c:365:10:UartRead	16	static
+bsp_uart.c:382:11:UartWrite	16	static
+bsp_uart.c:397:7:UartWaitSend	16	static
+bsp_uart.c:414:6:UartStartSendData	16	static
+bsp_uart.c:421:6:UartStartSendData1	8	static
+bsp_uart.c:428:6:UartStartSendData2	8	static
+bsp_uart.c:440:6:UartStartSendData4	8	static
+bsp_uart.c:458:6:UartIRQ	32	static
+bsp_uart.c:527:6:Uart1IRQ	8	static
+bsp_uart.c:533:6:Uart2IRQ	8	static
+bsp_uart.c:545:6:Uart4IRQ	8	static

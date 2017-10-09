@@ -1,0 +1,4 @@
+bsp_os.c:137:14:BSP_OS_SemCreate	32	static
+bsp_os.c:176:14:BSP_OS_SemWait	32	static
+bsp_os.c:215:14:BSP_OS_SemPost	24	static
+bsp_os.c:257:8:BSP_OS_TimeDlyMs	32	static

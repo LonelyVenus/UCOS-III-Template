@@ -1,0 +1,4 @@
+os_int.c:91:7:OS_IntQPost	32	static
+os_int.c:159:7:OS_IntQRePost	32	static
+os_int.c:269:7:OS_IntQTask	32	static
+os_int.c:331:7:OS_IntQTaskInit	72	static

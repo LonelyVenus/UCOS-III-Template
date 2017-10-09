@@ -1,0 +1,11 @@
+os_sem.c:73:7:OSSemCreate	32	static
+os_sem.c:163:13:OSSemDel	56	static
+os_sem.c:311:13:OSSemPend	64	static
+os_sem.c:471:13:OSSemPendAbort	48	static
+os_sem.c:584:13:OSSemPost	48	static
+os_sem.c:676:7:OSSemSet	32	static
+os_sem.c:746:7:OS_SemClr	16	static
+os_sem.c:772:7:OS_SemDbgListAdd	16	static
+os_sem.c:787:7:OS_SemDbgListRemove	24	static
+os_sem.c:834:7:OS_SemInit	16	static
+os_sem.c:884:13:OS_SemPost	64	static

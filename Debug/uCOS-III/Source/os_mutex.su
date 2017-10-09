@@ -1,0 +1,9 @@
+os_mutex.c:67:7:OSMutexCreate	32	static
+os_mutex.c:160:13:OSMutexDel	56	static
+os_mutex.c:339:7:OSMutexPend	64	static
+os_mutex.c:538:13:OSMutexPendAbort	48	static
+os_mutex.c:648:7:OSMutexPost	48	static
+os_mutex.c:767:7:OS_MutexClr	16	static
+os_mutex.c:795:7:OS_MutexDbgListAdd	16	static
+os_mutex.c:810:7:OS_MutexDbgListRemove	24	static
+os_mutex.c:857:7:OS_MutexInit	16	static

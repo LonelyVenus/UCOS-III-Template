@@ -1,0 +1,7 @@
+os_tick.c:61:7:OS_TickTask	24	static
+os_tick.c:104:7:OS_TickTaskInit	64	static
+os_tick.c:166:7:OS_TickListInit	16	static
+os_tick.c:220:7:OS_TickListInsert	48	static
+os_tick.c:337:7:OS_TickListRemove	32	static
+os_tick.c:386:7:OS_TickListResetPeak	16	static
+os_tick.c:415:7:OS_TickListUpdate	40	static

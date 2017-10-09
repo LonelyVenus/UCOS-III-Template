@@ -1,0 +1,4 @@
+os_prio.c:59:7:OS_PrioInit	16	static
+os_prio.c:85:10:OS_PrioGetHighest	16	static
+os_prio.c:115:7:OS_PrioInsert	32	static
+os_prio.c:143:7:OS_PrioRemove	32	static

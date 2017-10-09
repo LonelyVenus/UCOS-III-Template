@@ -1,0 +1,11 @@
+os_q.c:71:7:OSQCreate	32	static
+os_q.c:167:13:OSQDel	56	static
+os_q.c:294:13:OSQFlush	24	static
+os_q.c:384:8:OSQPend	64	static
+os_q.c:555:13:OSQPendAbort	48	static
+os_q.c:688:7:OSQPost	48	static
+os_q.c:775:7:OS_QClr	16	static
+os_q.c:803:7:OS_QDbgListAdd	16	static
+os_q.c:818:7:OS_QDbgListRemove	24	static
+os_q.c:865:7:OS_QInit	16	static
+os_q.c:922:7:OS_QPost	56	static

@@ -1,0 +1,4 @@
+os_pend_multi.c:121:13:OSPendMulti	32	static
+os_pend_multi.c:254:13:OS_PendMultiGetRdy	40	static
+os_pend_multi.c:335:14:OS_PendMultiValidate	32	static
+os_pend_multi.c:397:7:OS_PendMultiWait	40	static

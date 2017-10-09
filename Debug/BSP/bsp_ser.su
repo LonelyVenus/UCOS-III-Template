@@ -1,0 +1,9 @@
+bsp_ser.c:134:7:BSP_Ser_Init	48	static
+bsp_ser.c:218:7:BSP_Ser_ISR_Handler	16	static
+bsp_ser.c:258:7:BSP_Ser_Printf	96	static
+bsp_ser.c:293:13:BSP_Ser_RdByte	16	static
+bsp_ser.c:325:13:BSP_Ser_RdByteUnlocked	16	static
+bsp_ser.c:360:7:BSP_Ser_RdStr	24	static
+bsp_ser.c:456:7:BSP_Ser_WrByteUnlocked	16	static
+bsp_ser.c:481:7:BSP_Ser_WrByte	16	static
+bsp_ser.c:507:7:BSP_Ser_WrStr	24	static

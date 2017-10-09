@@ -1,0 +1,10 @@
+lib_fifo.c:22:6:CFifoCreate	24	static
+lib_fifo.c:75:12:CFifoRead	16	static
+lib_fifo.c:92:12:CFifoReads	32	static
+lib_fifo.c:112:12:CFifoWriteNoWait	16	static
+lib_fifo.c:132:12:CFifoWritesNoWait	32	static
+lib_fifo.c:154:12:CFifoWrite	16	static
+lib_fifo.c:175:12:CFifoWrites	32	static
+lib_fifo.c:198:6:CFifoIsEmpty	16	static
+lib_fifo.c:211:6:CFifoEmpty	16	static
+lib_fifo.c:227:6:CFifoIsFill	16	static

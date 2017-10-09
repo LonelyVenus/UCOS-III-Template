@@ -1,0 +1,6 @@
+bsp_stlm75.c:148:14:BSP_STLM75_Init	16	static
+bsp_stlm75.c:180:14:BSP_STLM75_CfgSet	24	static
+bsp_stlm75.c:268:22:BSP_STLM75_WrReg_08	24	static
+bsp_stlm75.c:309:22:BSP_STLM75_WrReg_16	24	static
+bsp_stlm75.c:351:22:BSP_STLM75_RdReg_16	24	static
+bsp_stlm75.c:400:14:BSP_STLM75_TempGet	24	static

@@ -1,0 +1,5 @@
+os_mem.c:75:7:OSMemCreate	48	static
+os_mem.c:190:8:OSMemGet	24	static
+os_mem.c:247:7:OSMemPut	32	static
+os_mem.c:302:7:OS_MemDbgListAdd	16	static
+os_mem.c:331:7:OS_MemInit	16	static

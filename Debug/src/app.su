@@ -1,0 +1,4 @@
+app.c:89:6:main	56	static
+app.c:132:15:AppTaskStart	40	static
+app.c:185:15:AppTaskCreate	4	static
+app.c:202:15:AppObjCreate	4	static
