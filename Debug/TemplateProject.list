@@ -1,5 +1,5 @@
 
-D:\Users\mys\Atollic\TrueSTUDIO\ARM_workspace_8.0\TemplateProject\Debug\TemplateProject.elf:     file format elf32-littlearm
+E:\ME3630Development\software\UCOS-III-Template\Debug\TemplateProject.elf:     file format elf32-littlearm
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
@@ -21,23 +21,23 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
   8 .ARM.attributes 00000029  00000000  00000000  00016684  2**0
                   CONTENTS, READONLY
-  9 .debug_info   000262ee  00000000  00000000  000166ad  2**0
+  9 .debug_info   000262b8  00000000  00000000  000166ad  2**0
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_abbrev 00002e77  00000000  00000000  0003c99b  2**0
+ 10 .debug_abbrev 00002e77  00000000  00000000  0003c965  2**0
                   CONTENTS, READONLY, DEBUGGING
- 11 .debug_aranges 00000f20  00000000  00000000  0003f818  2**3
+ 11 .debug_aranges 00000f20  00000000  00000000  0003f7e0  2**3
                   CONTENTS, READONLY, DEBUGGING
- 12 .debug_ranges 00000d30  00000000  00000000  00040738  2**3
+ 12 .debug_ranges 00000d30  00000000  00000000  00040700  2**3
                   CONTENTS, READONLY, DEBUGGING
- 13 .debug_line   00006f6d  00000000  00000000  00041468  2**0
+ 13 .debug_line   000068ab  00000000  00000000  00041430  2**0
                   CONTENTS, READONLY, DEBUGGING
- 14 .debug_str    000053dd  00000000  00000000  000483d5  2**0
+ 14 .debug_str    000053cb  00000000  00000000  00047cdb  2**0
                   CONTENTS, READONLY, DEBUGGING
- 15 .comment      0000007c  00000000  00000000  0004d7b2  2**0
+ 15 .comment      0000007c  00000000  00000000  0004d0a6  2**0
                   CONTENTS, READONLY
- 16 .debug_frame  00003820  00000000  00000000  0004d830  2**2
+ 16 .debug_frame  00003820  00000000  00000000  0004d124  2**2
                   CONTENTS, READONLY, DEBUGGING
- 17 .stabstr      0000003f  00000000  00000000  00051050  2**0
+ 17 .stabstr      0000003f  00000000  00000000  00050944  2**0
                   CONTENTS, READONLY, DEBUGGING
 
 Disassembly of section .text:

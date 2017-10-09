@@ -1,15 +1,15 @@
 Archive member included to satisfy reference by file (symbol)
 
-d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
                               BSP\TrueSTUDIO\cstartup.o (__libc_init_array)
-d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
+d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
                               uC-LIB\lib_fifo.o (memset)
-d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
+d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
                               src\tiny_printf.o (strlen)
-d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
                               src\tiny_printf.o (_write)
-d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
-                              d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o) (errno)
+d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
+                              d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o) (errno)
 
 Allocating common symbols
 Common symbol       size              file
@@ -28,7 +28,7 @@ OSRdyList           0x180             uCOS-III\Source\os_var.o
 OSIntQInPtr         0x4               uCOS-III\Source\os_var.o
 OSPrioHighRdy       0x1               uCOS-III\Source\os_var.o
 OSCfg_IntQTaskStk   0x200             uCOS-III\Source\os_cfg_app.o
-errno               0x4               d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
+errno               0x4               d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
 OSStatTaskRdy       0x1               uCOS-III\Source\os_var.o
 OSSemDbgListPtr     0x4               uCOS-III\Source\os_var.o
 com1SendBuff        0x41e             BSP\bsp_uart.o
@@ -141,10 +141,10 @@ CPU_Name            0x10              uC-CPU\cpu_core.o
 
 Discarded input sections
 
- .text          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
- .data          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
- .bss           0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
- .data          0x00000000        0x4 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+ .text          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
+ .data          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
+ .bss           0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
+ .data          0x00000000        0x4 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
  .text          0x00000000        0x0 BSP\OS\uCOS-III\bsp_os.o
  .data          0x00000000        0x0 BSP\OS\uCOS-III\bsp_os.o
  .bss           0x00000000        0x0 BSP\OS\uCOS-III\bsp_os.o
@@ -161,8 +161,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x38 BSP\OS\uCOS-III\bsp_os.o
  .debug_ranges  0x00000000       0x28 BSP\OS\uCOS-III\bsp_os.o
- .debug_line    0x00000000      0x38b BSP\OS\uCOS-III\bsp_os.o
- .debug_str     0x00000000     0x21ec BSP\OS\uCOS-III\bsp_os.o
+ .debug_line    0x00000000      0x321 BSP\OS\uCOS-III\bsp_os.o
+ .debug_str     0x00000000     0x21da BSP\OS\uCOS-III\bsp_os.o
  .comment       0x00000000       0x7d BSP\OS\uCOS-III\bsp_os.o
  .debug_frame   0x00000000       0xa0 BSP\OS\uCOS-III\bsp_os.o
  .ARM.attributes
@@ -246,8 +246,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000      0x138 BSP\ST\STM32\src\stm32f10x_adc.o
  .debug_ranges  0x00000000      0x128 BSP\ST\STM32\src\stm32f10x_adc.o
- .debug_line    0x00000000      0x421 BSP\ST\STM32\src\stm32f10x_adc.o
- .debug_str     0x00000000      0x6d1 BSP\ST\STM32\src\stm32f10x_adc.o
+ .debug_line    0x00000000      0x40f BSP\ST\STM32\src\stm32f10x_adc.o
+ .debug_str     0x00000000      0x6bf BSP\ST\STM32\src\stm32f10x_adc.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_adc.o
  .debug_frame   0x00000000      0x5a4 BSP\ST\STM32\src\stm32f10x_adc.o
  .ARM.attributes
@@ -284,8 +284,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x78 BSP\ST\STM32\src\stm32f10x_bkp.o
  .debug_ranges  0x00000000       0x68 BSP\ST\STM32\src\stm32f10x_bkp.o
- .debug_line    0x00000000      0x19f BSP\ST\STM32\src\stm32f10x_bkp.o
- .debug_str     0x00000000      0x590 BSP\ST\STM32\src\stm32f10x_bkp.o
+ .debug_line    0x00000000      0x18d BSP\ST\STM32\src\stm32f10x_bkp.o
+ .debug_str     0x00000000      0x57e BSP\ST\STM32\src\stm32f10x_bkp.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_bkp.o
  .debug_frame   0x00000000      0x1c4 BSP\ST\STM32\src\stm32f10x_bkp.o
  .ARM.attributes
@@ -338,8 +338,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xb8 BSP\ST\STM32\src\stm32f10x_can.o
  .debug_ranges  0x00000000       0xa8 BSP\ST\STM32\src\stm32f10x_can.o
- .debug_line    0x00000000      0x384 BSP\ST\STM32\src\stm32f10x_can.o
- .debug_str     0x00000000      0x631 BSP\ST\STM32\src\stm32f10x_can.o
+ .debug_line    0x00000000      0x372 BSP\ST\STM32\src\stm32f10x_can.o
+ .debug_str     0x00000000      0x61f BSP\ST\STM32\src\stm32f10x_can.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_can.o
  .debug_frame   0x00000000      0x324 BSP\ST\STM32\src\stm32f10x_can.o
  .ARM.attributes
@@ -364,8 +364,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 BSP\ST\STM32\src\stm32f10x_crc.o
  .debug_ranges  0x00000000       0x38 BSP\ST\STM32\src\stm32f10x_crc.o
- .debug_line    0x00000000      0x13c BSP\ST\STM32\src\stm32f10x_crc.o
- .debug_str     0x00000000      0x211 BSP\ST\STM32\src\stm32f10x_crc.o
+ .debug_line    0x00000000      0x12a BSP\ST\STM32\src\stm32f10x_crc.o
+ .debug_str     0x00000000      0x1ff BSP\ST\STM32\src\stm32f10x_crc.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_crc.o
  .debug_frame   0x00000000       0xe8 BSP\ST\STM32\src\stm32f10x_crc.o
  .ARM.attributes
@@ -401,8 +401,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x78 BSP\ST\STM32\src\stm32f10x_dac.o
  .debug_ranges  0x00000000       0x68 BSP\ST\STM32\src\stm32f10x_dac.o
- .debug_line    0x00000000      0x1ca BSP\ST\STM32\src\stm32f10x_dac.o
- .debug_str     0x00000000      0x385 BSP\ST\STM32\src\stm32f10x_dac.o
+ .debug_line    0x00000000      0x1b8 BSP\ST\STM32\src\stm32f10x_dac.o
+ .debug_str     0x00000000      0x373 BSP\ST\STM32\src\stm32f10x_dac.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_dac.o
  .debug_frame   0x00000000      0x1e4 BSP\ST\STM32\src\stm32f10x_dac.o
  .ARM.attributes
@@ -421,8 +421,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x30 BSP\ST\STM32\src\stm32f10x_dbgmcu.o
  .debug_ranges  0x00000000       0x20 BSP\ST\STM32\src\stm32f10x_dbgmcu.o
- .debug_line    0x00000000       0xf8 BSP\ST\STM32\src\stm32f10x_dbgmcu.o
- .debug_str     0x00000000      0x1ee BSP\ST\STM32\src\stm32f10x_dbgmcu.o
+ .debug_line    0x00000000       0xe6 BSP\ST\STM32\src\stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x1dc BSP\ST\STM32\src\stm32f10x_dbgmcu.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_dbgmcu.o
  .debug_frame   0x00000000       0x78 BSP\ST\STM32\src\stm32f10x_dbgmcu.o
  .ARM.attributes
@@ -454,8 +454,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x68 BSP\ST\STM32\src\stm32f10x_dma.o
  .debug_ranges  0x00000000       0x58 BSP\ST\STM32\src\stm32f10x_dma.o
- .debug_line    0x00000000      0x1f4 BSP\ST\STM32\src\stm32f10x_dma.o
- .debug_str     0x00000000      0x374 BSP\ST\STM32\src\stm32f10x_dma.o
+ .debug_line    0x00000000      0x1e2 BSP\ST\STM32\src\stm32f10x_dma.o
+ .debug_str     0x00000000      0x362 BSP\ST\STM32\src\stm32f10x_dma.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_dma.o
  .debug_frame   0x00000000      0x1a0 BSP\ST\STM32\src\stm32f10x_dma.o
  .ARM.attributes
@@ -484,8 +484,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x58 BSP\ST\STM32\src\stm32f10x_exti.o
  .debug_ranges  0x00000000       0x48 BSP\ST\STM32\src\stm32f10x_exti.o
- .debug_line    0x00000000      0x18c BSP\ST\STM32\src\stm32f10x_exti.o
- .debug_str     0x00000000      0x345 BSP\ST\STM32\src\stm32f10x_exti.o
+ .debug_line    0x00000000      0x17a BSP\ST\STM32\src\stm32f10x_exti.o
+ .debug_str     0x00000000      0x333 BSP\ST\STM32\src\stm32f10x_exti.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_exti.o
  .debug_frame   0x00000000      0x148 BSP\ST\STM32\src\stm32f10x_exti.o
  .ARM.attributes
@@ -582,8 +582,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xb0 BSP\ST\STM32\src\stm32f10x_fsmc.o
  .debug_ranges  0x00000000       0xa0 BSP\ST\STM32\src\stm32f10x_fsmc.o
- .debug_line    0x00000000      0x380 BSP\ST\STM32\src\stm32f10x_fsmc.o
- .debug_str     0x00000000      0x763 BSP\ST\STM32\src\stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x36e BSP\ST\STM32\src\stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x751 BSP\ST\STM32\src\stm32f10x_fsmc.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_fsmc.o
  .debug_frame   0x00000000      0x300 BSP\ST\STM32\src\stm32f10x_fsmc.o
  .ARM.attributes
@@ -694,8 +694,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000      0x118 BSP\ST\STM32\src\stm32f10x_i2c.o
  .debug_ranges  0x00000000      0x108 BSP\ST\STM32\src\stm32f10x_i2c.o
- .debug_line    0x00000000      0x3be BSP\ST\STM32\src\stm32f10x_i2c.o
- .debug_str     0x00000000      0x619 BSP\ST\STM32\src\stm32f10x_i2c.o
+ .debug_line    0x00000000      0x3ac BSP\ST\STM32\src\stm32f10x_i2c.o
+ .debug_str     0x00000000      0x607 BSP\ST\STM32\src\stm32f10x_i2c.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_i2c.o
  .debug_frame   0x00000000      0x508 BSP\ST\STM32\src\stm32f10x_i2c.o
  .ARM.attributes
@@ -720,8 +720,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 BSP\ST\STM32\src\stm32f10x_iwdg.o
  .debug_ranges  0x00000000       0x38 BSP\ST\STM32\src\stm32f10x_iwdg.o
- .debug_line    0x00000000      0x12e BSP\ST\STM32\src\stm32f10x_iwdg.o
- .debug_str     0x00000000      0x232 BSP\ST\STM32\src\stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x11c BSP\ST\STM32\src\stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x220 BSP\ST\STM32\src\stm32f10x_iwdg.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_iwdg.o
  .debug_frame   0x00000000       0xf0 BSP\ST\STM32\src\stm32f10x_iwdg.o
  .ARM.attributes
@@ -734,7 +734,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 BSP\ST\STM32\src\stm32f10x_lib.o
  .debug_line    0x00000000       0x1d BSP\ST\STM32\src\stm32f10x_lib.o
- .debug_str     0x00000000      0x16c BSP\ST\STM32\src\stm32f10x_lib.o
+ .debug_str     0x00000000      0x15a BSP\ST\STM32\src\stm32f10x_lib.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_lib.o
  .ARM.attributes
                 0x00000000       0x33 BSP\ST\STM32\src\stm32f10x_lib.o
@@ -806,8 +806,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000      0x108 BSP\ST\STM32\src\stm32f10x_nvic.o
  .debug_ranges  0x00000000       0xf8 BSP\ST\STM32\src\stm32f10x_nvic.o
- .debug_line    0x00000000      0x384 BSP\ST\STM32\src\stm32f10x_nvic.o
- .debug_str     0x00000000      0x6c1 BSP\ST\STM32\src\stm32f10x_nvic.o
+ .debug_line    0x00000000      0x372 BSP\ST\STM32\src\stm32f10x_nvic.o
+ .debug_str     0x00000000      0x6af BSP\ST\STM32\src\stm32f10x_nvic.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_nvic.o
  .debug_frame   0x00000000      0x458 BSP\ST\STM32\src\stm32f10x_nvic.o
  .ARM.attributes
@@ -838,8 +838,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x60 BSP\ST\STM32\src\stm32f10x_pwr.o
  .debug_ranges  0x00000000       0x50 BSP\ST\STM32\src\stm32f10x_pwr.o
- .debug_line    0x00000000      0x175 BSP\ST\STM32\src\stm32f10x_pwr.o
- .debug_str     0x00000000      0x28e BSP\ST\STM32\src\stm32f10x_pwr.o
+ .debug_line    0x00000000      0x163 BSP\ST\STM32\src\stm32f10x_pwr.o
+ .debug_str     0x00000000      0x27c BSP\ST\STM32\src\stm32f10x_pwr.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_pwr.o
  .debug_frame   0x00000000      0x15c BSP\ST\STM32\src\stm32f10x_pwr.o
  .ARM.attributes
@@ -945,8 +945,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x88 BSP\ST\STM32\src\stm32f10x_rtc.o
  .debug_ranges  0x00000000       0x78 BSP\ST\STM32\src\stm32f10x_rtc.o
- .debug_line    0x00000000      0x1e9 BSP\ST\STM32\src\stm32f10x_rtc.o
- .debug_str     0x00000000      0x378 BSP\ST\STM32\src\stm32f10x_rtc.o
+ .debug_line    0x00000000      0x1d7 BSP\ST\STM32\src\stm32f10x_rtc.o
+ .debug_str     0x00000000      0x366 BSP\ST\STM32\src\stm32f10x_rtc.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_rtc.o
  .debug_frame   0x00000000      0x214 BSP\ST\STM32\src\stm32f10x_rtc.o
  .ARM.attributes
@@ -1019,8 +1019,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000      0x108 BSP\ST\STM32\src\stm32f10x_sdio.o
  .debug_ranges  0x00000000       0xf8 BSP\ST\STM32\src\stm32f10x_sdio.o
- .debug_line    0x00000000      0x331 BSP\ST\STM32\src\stm32f10x_sdio.o
- .debug_str     0x00000000      0x620 BSP\ST\STM32\src\stm32f10x_sdio.o
+ .debug_line    0x00000000      0x31f BSP\ST\STM32\src\stm32f10x_sdio.o
+ .debug_str     0x00000000      0x60e BSP\ST\STM32\src\stm32f10x_sdio.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_sdio.o
  .debug_frame   0x00000000      0x490 BSP\ST\STM32\src\stm32f10x_sdio.o
  .ARM.attributes
@@ -1077,8 +1077,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xd0 BSP\ST\STM32\src\stm32f10x_spi.o
  .debug_ranges  0x00000000       0xc0 BSP\ST\STM32\src\stm32f10x_spi.o
- .debug_line    0x00000000      0x32b BSP\ST\STM32\src\stm32f10x_spi.o
- .debug_str     0x00000000      0x625 BSP\ST\STM32\src\stm32f10x_spi.o
+ .debug_line    0x00000000      0x319 BSP\ST\STM32\src\stm32f10x_spi.o
+ .debug_str     0x00000000      0x613 BSP\ST\STM32\src\stm32f10x_spi.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_spi.o
  .debug_frame   0x00000000      0x3a0 BSP\ST\STM32\src\stm32f10x_spi.o
  .ARM.attributes
@@ -1103,8 +1103,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 BSP\ST\STM32\src\stm32f10x_systick.o
  .debug_ranges  0x00000000       0x38 BSP\ST\STM32\src\stm32f10x_systick.o
- .debug_line    0x00000000      0x146 BSP\ST\STM32\src\stm32f10x_systick.o
- .debug_str     0x00000000      0x295 BSP\ST\STM32\src\stm32f10x_systick.o
+ .debug_line    0x00000000      0x134 BSP\ST\STM32\src\stm32f10x_systick.o
+ .debug_str     0x00000000      0x283 BSP\ST\STM32\src\stm32f10x_systick.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_systick.o
  .debug_frame   0x00000000       0xf8 BSP\ST\STM32\src\stm32f10x_systick.o
  .ARM.attributes
@@ -1298,8 +1298,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000      0x2f0 BSP\ST\STM32\src\stm32f10x_tim.o
  .debug_ranges  0x00000000      0x2e0 BSP\ST\STM32\src\stm32f10x_tim.o
- .debug_line    0x00000000      0x935 BSP\ST\STM32\src\stm32f10x_tim.o
- .debug_str     0x00000000      0xdb3 BSP\ST\STM32\src\stm32f10x_tim.o
+ .debug_line    0x00000000      0x923 BSP\ST\STM32\src\stm32f10x_tim.o
+ .debug_str     0x00000000      0xda1 BSP\ST\STM32\src\stm32f10x_tim.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_tim.o
  .debug_frame   0x00000000      0xe2c BSP\ST\STM32\src\stm32f10x_tim.o
  .ARM.attributes
@@ -1366,8 +1366,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xf0 BSP\ST\STM32\src\stm32f10x_usart.o
  .debug_ranges  0x00000000       0xe0 BSP\ST\STM32\src\stm32f10x_usart.o
- .debug_line    0x00000000      0x35f BSP\ST\STM32\src\stm32f10x_usart.o
- .debug_str     0x00000000      0x63e BSP\ST\STM32\src\stm32f10x_usart.o
+ .debug_line    0x00000000      0x34d BSP\ST\STM32\src\stm32f10x_usart.o
+ .debug_str     0x00000000      0x62c BSP\ST\STM32\src\stm32f10x_usart.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_usart.o
  .debug_frame   0x00000000      0x440 BSP\ST\STM32\src\stm32f10x_usart.o
  .ARM.attributes
@@ -1396,8 +1396,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x58 BSP\ST\STM32\src\stm32f10x_wwdg.o
  .debug_ranges  0x00000000       0x48 BSP\ST\STM32\src\stm32f10x_wwdg.o
- .debug_line    0x00000000      0x155 BSP\ST\STM32\src\stm32f10x_wwdg.o
- .debug_str     0x00000000      0x247 BSP\ST\STM32\src\stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x143 BSP\ST\STM32\src\stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x235 BSP\ST\STM32\src\stm32f10x_wwdg.o
  .comment       0x00000000       0x7d BSP\ST\STM32\src\stm32f10x_wwdg.o
  .debug_frame   0x00000000      0x12c BSP\ST\STM32\src\stm32f10x_wwdg.o
  .ARM.attributes
@@ -1447,8 +1447,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x70 BSP\bsp_i2c.o
  .debug_ranges  0x00000000       0x60 BSP\bsp_i2c.o
- .debug_line    0x00000000      0x586 BSP\bsp_i2c.o
- .debug_str     0x00000000     0x18fd BSP\bsp_i2c.o
+ .debug_line    0x00000000      0x50a BSP\bsp_i2c.o
+ .debug_str     0x00000000     0x18eb BSP\bsp_i2c.o
  .comment       0x00000000       0x7d BSP\bsp_i2c.o
  .debug_frame   0x00000000      0x184 BSP\bsp_i2c.o
  .ARM.attributes
@@ -1478,8 +1478,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x30 BSP\bsp_periph.o
  .debug_ranges  0x00000000       0x20 BSP\bsp_periph.o
- .debug_line    0x00000000      0x32c BSP\bsp_periph.o
- .debug_str     0x00000000     0x1556 BSP\bsp_periph.o
+ .debug_line    0x00000000      0x2d4 BSP\bsp_periph.o
+ .debug_str     0x00000000     0x1544 BSP\bsp_periph.o
  .comment       0x00000000       0x7d BSP\bsp_periph.o
  .debug_frame   0x00000000       0x84 BSP\bsp_periph.o
  .ARM.attributes
@@ -1527,8 +1527,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xa0 BSP\bsp_uart.o
  .debug_ranges  0x00000000       0x90 BSP\bsp_uart.o
- .debug_line    0x00000000      0x64f BSP\bsp_uart.o
- .debug_str     0x00000000     0x267c BSP\bsp_uart.o
+ .debug_line    0x00000000      0x5cb BSP\bsp_uart.o
+ .debug_str     0x00000000     0x266a BSP\bsp_uart.o
  .comment       0x00000000       0x7d BSP\bsp_uart.o
  .debug_frame   0x00000000      0x260 BSP\bsp_uart.o
  .ARM.attributes
@@ -1565,8 +1565,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x68 src\os_app_hooks.o
  .debug_ranges  0x00000000       0x58 src\os_app_hooks.o
- .debug_line    0x00000000      0x28c src\os_app_hooks.o
- .debug_str     0x00000000     0x11a0 src\os_app_hooks.o
+ .debug_line    0x00000000      0x244 src\os_app_hooks.o
+ .debug_str     0x00000000     0x118e src\os_app_hooks.o
  .comment       0x00000000       0x7d src\os_app_hooks.o
  .debug_frame   0x00000000      0x170 src\os_app_hooks.o
  .ARM.attributes
@@ -1593,8 +1593,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x60 src\tiny_printf.o
  .debug_ranges  0x00000000       0x50 src\tiny_printf.o
- .debug_line    0x00000000      0x2b9 src\tiny_printf.o
- .debug_str     0x00000000      0x678 src\tiny_printf.o
+ .debug_line    0x00000000      0x2a1 src\tiny_printf.o
+ .debug_str     0x00000000      0x666 src\tiny_printf.o
  .comment       0x00000000       0x7d src\tiny_printf.o
  .debug_frame   0x00000000      0x1bc src\tiny_printf.o
  .ARM.attributes
@@ -1623,8 +1623,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x50 uC-CPU\ARM-Cortex-M3\GNU\cpu_c.o
  .debug_ranges  0x00000000       0x40 uC-CPU\ARM-Cortex-M3\GNU\cpu_c.o
- .debug_line    0x00000000      0x291 uC-CPU\ARM-Cortex-M3\GNU\cpu_c.o
- .debug_str     0x00000000      0x377 uC-CPU\ARM-Cortex-M3\GNU\cpu_c.o
+ .debug_line    0x00000000      0x26d uC-CPU\ARM-Cortex-M3\GNU\cpu_c.o
+ .debug_str     0x00000000      0x365 uC-CPU\ARM-Cortex-M3\GNU\cpu_c.o
  .comment       0x00000000       0x7d uC-CPU\ARM-Cortex-M3\GNU\cpu_c.o
  .debug_frame   0x00000000      0x11c uC-CPU\ARM-Cortex-M3\GNU\cpu_c.o
  .ARM.attributes
@@ -1666,7 +1666,7 @@ Discarded input sections
  .data          0x00000000        0x0 uC-LIB\Ports\ARM-Cortex-M3\GNU\lib_mem_a.o
  .bss           0x00000000        0x0 uC-LIB\Ports\ARM-Cortex-M3\GNU\lib_mem_a.o
  .debug_line    0x00000000       0xfb uC-LIB\Ports\ARM-Cortex-M3\GNU\lib_mem_a.o
- .debug_info    0x00000000       0x9f uC-LIB\Ports\ARM-Cortex-M3\GNU\lib_mem_a.o
+ .debug_info    0x00000000       0x8d uC-LIB\Ports\ARM-Cortex-M3\GNU\lib_mem_a.o
  .debug_abbrev  0x00000000       0x14 uC-LIB\Ports\ARM-Cortex-M3\GNU\lib_mem_a.o
  .debug_aranges
                 0x00000000       0x20 uC-LIB\Ports\ARM-Cortex-M3\GNU\lib_mem_a.o
@@ -1712,8 +1712,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x98 uC-LIB\lib_ascii.o
  .debug_ranges  0x00000000       0x88 uC-LIB\lib_ascii.o
- .debug_line    0x00000000      0x42e uC-LIB\lib_ascii.o
- .debug_str     0x00000000      0x2dd uC-LIB\lib_ascii.o
+ .debug_line    0x00000000      0x41c uC-LIB\lib_ascii.o
+ .debug_str     0x00000000      0x2cb uC-LIB\lib_ascii.o
  .comment       0x00000000       0x7d uC-LIB\lib_ascii.o
  .debug_frame   0x00000000      0x28c uC-LIB\lib_ascii.o
  .ARM.attributes
@@ -1746,8 +1746,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x68 uC-LIB\lib_fifo.o
  .debug_ranges  0x00000000       0x58 uC-LIB\lib_fifo.o
- .debug_line    0x00000000      0x4ae uC-LIB\lib_fifo.o
- .debug_str     0x00000000     0x15f6 uC-LIB\lib_fifo.o
+ .debug_line    0x00000000      0x444 uC-LIB\lib_fifo.o
+ .debug_str     0x00000000     0x15e4 uC-LIB\lib_fifo.o
  .comment       0x00000000       0x7d uC-LIB\lib_fifo.o
  .debug_frame   0x00000000      0x184 uC-LIB\lib_fifo.o
  .ARM.attributes
@@ -1768,8 +1768,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x38 uC-LIB\lib_math.o
  .debug_ranges  0x00000000       0x28 uC-LIB\lib_math.o
- .debug_line    0x00000000      0x199 uC-LIB\lib_math.o
- .debug_str     0x00000000      0x2e3 uC-LIB\lib_math.o
+ .debug_line    0x00000000      0x163 uC-LIB\lib_math.o
+ .debug_str     0x00000000      0x2d1 uC-LIB\lib_math.o
  .comment       0x00000000       0x7d uC-LIB\lib_math.o
  .debug_frame   0x00000000       0x9c uC-LIB\lib_math.o
  .ARM.attributes
@@ -1861,8 +1861,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xd8 uC-LIB\lib_str.o
  .debug_ranges  0x00000000       0xc8 uC-LIB\lib_str.o
- .debug_line    0x00000000      0x53b uC-LIB\lib_str.o
- .debug_str     0x00000000      0x666 uC-LIB\lib_str.o
+ .debug_line    0x00000000      0x529 uC-LIB\lib_str.o
+ .debug_str     0x00000000      0x654 uC-LIB\lib_str.o
  .comment       0x00000000       0x7d uC-LIB\lib_str.o
  .debug_frame   0x00000000      0x394 uC-LIB\lib_str.o
  .ARM.attributes
@@ -2004,8 +2004,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x38 uCOS-III\Source\os_pend_multi.o
  .debug_ranges  0x00000000       0x28 uCOS-III\Source\os_pend_multi.o
- .debug_line    0x00000000      0x2fd uCOS-III\Source\os_pend_multi.o
- .debug_str     0x00000000     0x1dda uCOS-III\Source\os_pend_multi.o
+ .debug_line    0x00000000      0x2b5 uCOS-III\Source\os_pend_multi.o
+ .debug_str     0x00000000     0x1dc8 uCOS-III\Source\os_pend_multi.o
  .comment       0x00000000       0x7d uCOS-III\Source\os_pend_multi.o
  .debug_frame   0x00000000       0xa4 uCOS-III\Source\os_pend_multi.o
  .ARM.attributes
@@ -2119,44 +2119,44 @@ Discarded input sections
  .text          0x00000000        0x0 uCOS-III\Source\os_var.o
  .data          0x00000000        0x0 uCOS-III\Source\os_var.o
  .bss           0x00000000        0x0 uCOS-III\Source\os_var.o
- .text          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
- .data          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
- .bss           0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
- .text          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
- .data          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
- .bss           0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
- .text.memset   0x00000000       0x10 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
- .debug_frame   0x00000000       0x20 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
  .ARM.attributes
-                0x00000000       0x2d d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
- .text          0x00000000       0x10 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
- .data          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
- .bss           0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
+                0x00000000       0x2d d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000       0x10 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
  .ARM.attributes
-                0x00000000       0x17 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
- .text          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
- .data          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
- .bss           0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
- .stab          0x00000000       0x24 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
- .text._write   0x00000000       0x10 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
- .debug_frame   0x00000000       0x20 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+                0x00000000       0x17 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+ .data          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+ .stab          0x00000000       0x24 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+ .text._write   0x00000000       0x10 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+ .debug_frame   0x00000000       0x20 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
  .ARM.attributes
-                0x00000000       0x2d d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
- .text          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
- .data          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
- .bss           0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
+                0x00000000       0x2d d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+ .text          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
+ .data          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
  .ARM.attributes
-                0x00000000       0x2d d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
- COMMON         0x00000000        0x4 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
- .text          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
- .data          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
- .bss           0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
- .eh_frame      0x00000000        0x4 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
+                0x00000000       0x2d d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
+ COMMON         0x00000000        0x4 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
+ .text          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
+ .data          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
+ .bss           0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
  .ARM.attributes
-                0x00000000       0x2d d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
- .text          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
- .data          0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
- .bss           0x00000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
+                0x00000000       0x2d d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
+ .text          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
+ .data          0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
+ .bss           0x00000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
 
 Memory Configuration
 
@@ -2168,8 +2168,8 @@ MEMORY_B1        0x60000000         0x00000000         xr
 
 Linker script and memory map
 
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
 LOAD BSP\OS\uCOS-III\bsp_os.o
 LOAD BSP\ST\STM32\src\stm32f10x_adc.o
 LOAD BSP\ST\STM32\src\stm32f10x_bkp.o
@@ -2235,25 +2235,25 @@ LOAD uCOS-III\Source\os_tmr.o
 LOAD uCOS-III\Source\os_var.o
                 0x00000080                malloc_getpagesize_P = 0x80
 START GROUP
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libm.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libm.a
 END GROUP
 START GROUP
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m\libgcc.a
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m\libgcc.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a
 END GROUP
 START GROUP
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m\libgcc.a
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m\libgcc.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a
 END GROUP
 START GROUP
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m\libgcc.a
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m\libgcc.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a
 END GROUP
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
-LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtend.o
+LOAD d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
                 0x20010000                _estack = 0x20010000
                 0x00000000                _Min_Heap_Size = 0x0
                 0x00000200                _Min_Stack_Size = 0x200
@@ -2268,7 +2268,7 @@ LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib
 .text           0x08000150     0x628c
                 0x08000150                . = ALIGN (0x4)
  *(.text)
- .text          0x08000150       0x40 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+ .text          0x08000150       0x40 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
  .text          0x08000190       0x34 uC-CPU\ARM-Cortex-M3\GNU\cpu_a.o
                 0x08000190                CPU_IntDis
                 0x08000194                CPU_IntEn
@@ -2908,22 +2908,22 @@ LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib
                 0x08006278      0x104 uCOS-III\Source\os_tmr.o
                 0x08006278                OS_TmrTask
  .text.__libc_init_array
-                0x0800637c       0x48 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+                0x0800637c       0x48 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
                 0x0800637c                __libc_init_array
  *(.glue_7)
  .glue_7        0x080063c4        0x0 linker stubs
  *(.glue_7t)
  .glue_7t       0x080063c4        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x080063c4        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+ .eh_frame      0x080063c4        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
  *(.init)
- .init          0x080063c4        0x4 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
+ .init          0x080063c4        0x4 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
                 0x080063c4                _init
- .init          0x080063c8        0x8 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
+ .init          0x080063c8        0x8 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
  *(.fini)
- .fini          0x080063d0        0x4 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
+ .fini          0x080063d0        0x4 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
                 0x080063d0                _fini
- .fini          0x080063d4        0x8 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
+ .fini          0x080063d4        0x8 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
                 0x080063dc                . = ALIGN (0x4)
                 0x080063dc                _etext = .
 
@@ -2934,7 +2934,7 @@ LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib
  .v4_bx         0x080063dc        0x0 linker stubs
 
 .iplt           0x080063dc        0x0
- .iplt          0x080063dc        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+ .iplt          0x080063dc        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
 
 .rodata         0x080063dc      0x2a0
                 0x080063dc                . = ALIGN (0x4)
@@ -3276,7 +3276,7 @@ LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib
                 0x0800667c                . = ALIGN (0x4)
 
 .rel.dyn        0x0800667c        0x0
- .rel.iplt      0x0800667c        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+ .rel.iplt      0x0800667c        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
@@ -3295,14 +3295,14 @@ LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib
                 0x0800667c                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  *(.init_array*)
- .init_array    0x0800667c        0x4 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+ .init_array    0x0800667c        0x4 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
                 0x08006680                PROVIDE (__init_array_end, .)
 
 .fini_array     0x08006680        0x4
                 [!provide]                PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08006680        0x4 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+ .fini_array    0x08006680        0x4 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
                 [!provide]                PROVIDE (__fini_array_end, .)
                 0x08006684                _sidata = LOADADDR (.data)
 
@@ -3315,14 +3315,14 @@ LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib
                 0x20000000                _edata = .
 
 .igot.plt       0x20000000        0x0 load address 0x08006684
- .igot.plt      0x20000000        0x0 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+ .igot.plt      0x20000000        0x0 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
                 0x20000000                . = ALIGN (0x4)
 
 .bss            0x20000000     0x8b4c load address 0x08006684
                 0x20000000                _sbss = .
                 0x20000000                __bss_start__ = _sbss
  *(.bss)
- .bss           0x20000000       0x1c d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+ .bss           0x20000000       0x1c d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
  *(.bss*)
  .bss.BSP_IntVectTbl
                 0x2000001c      0x110 BSP\bsp_int.o
@@ -3457,9 +3457,9 @@ LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib
                 0x00000000       0x29
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000       0x1d d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
+                0x00000000       0x1d d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
  .ARM.attributes
-                0x0000001d       0x2d d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+                0x0000001d       0x2d d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
  .ARM.attributes
                 0x0000004a       0x33 BSP\ST\STM32\src\stm32f10x_flash.o
  .ARM.attributes
@@ -3519,41 +3519,41 @@ LOAD d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib
  .ARM.attributes
                 0x000005a8       0x33 uCOS-III\Source\os_var.o
  .ARM.attributes
-                0x000005db       0x2d d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+                0x000005db       0x2d d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
  .ARM.attributes
-                0x00000608       0x1d d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
+                0x00000608       0x1d d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtn.o
 OUTPUT(TemplateProject.elf elf32-littlearm)
 
-.debug_info     0x00000000    0x262ee
+.debug_info     0x00000000    0x262b8
  .debug_info    0x00000000      0x6a3 BSP\ST\STM32\src\stm32f10x_flash.o
  .debug_info    0x000006a3      0x66f BSP\ST\STM32\src\stm32f10x_gpio.o
  .debug_info    0x00000d12      0xae2 BSP\ST\STM32\src\stm32f10x_rcc.o
- .debug_info    0x000017f4       0x8a BSP\TrueSTUDIO\cstartup.o
- .debug_info    0x0000187e     0x1e91 BSP\bsp.o
- .debug_info    0x0000370f     0x20f6 BSP\bsp_int.o
- .debug_info    0x00005805     0x208a src\app.o
- .debug_info    0x0000788f       0x95 uC-CPU\ARM-Cortex-M3\GNU\cpu_a.o
- .debug_info    0x00007924      0x732 uC-CPU\cpu_core.o
- .debug_info    0x00008056      0xee1 uC-LIB\lib_mem.o
- .debug_info    0x00008f37       0xa8 uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_a.o
- .debug_info    0x00008fdf     0x14e5 uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_c.o
- .debug_info    0x0000a4c4     0x1598 uCOS-III\Source\os_cfg_app.o
- .debug_info    0x0000ba5c     0x2230 uCOS-III\Source\os_core.o
- .debug_info    0x0000dc8c     0x182e uCOS-III\Source\os_dbg.o
- .debug_info    0x0000f4ba     0x1cde uCOS-III\Source\os_flag.o
- .debug_info    0x00011198     0x18fc uCOS-III\Source\os_int.o
- .debug_info    0x00012a94     0x1932 uCOS-III\Source\os_mem.o
- .debug_info    0x000143c6     0x194c uCOS-III\Source\os_msg.o
- .debug_info    0x00015d12     0x1add uCOS-III\Source\os_mutex.o
- .debug_info    0x000177ef     0x13e9 uCOS-III\Source\os_prio.o
- .debug_info    0x00018bd8     0x1c17 uCOS-III\Source\os_q.o
- .debug_info    0x0001a7ef     0x1be8 uCOS-III\Source\os_sem.o
- .debug_info    0x0001c3d7     0x194d uCOS-III\Source\os_stat.o
- .debug_info    0x0001dd24     0x217e uCOS-III\Source\os_task.o
- .debug_info    0x0001fea2     0x19cf uCOS-III\Source\os_tick.o
- .debug_info    0x00021871     0x198a uCOS-III\Source\os_time.o
- .debug_info    0x000231fb     0x1c8d uCOS-III\Source\os_tmr.o
- .debug_info    0x00024e88     0x1466 uCOS-III\Source\os_var.o
+ .debug_info    0x000017f4       0x78 BSP\TrueSTUDIO\cstartup.o
+ .debug_info    0x0000186c     0x1e91 BSP\bsp.o
+ .debug_info    0x000036fd     0x20f6 BSP\bsp_int.o
+ .debug_info    0x000057f3     0x208a src\app.o
+ .debug_info    0x0000787d       0x83 uC-CPU\ARM-Cortex-M3\GNU\cpu_a.o
+ .debug_info    0x00007900      0x732 uC-CPU\cpu_core.o
+ .debug_info    0x00008032      0xee1 uC-LIB\lib_mem.o
+ .debug_info    0x00008f13       0x96 uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_a.o
+ .debug_info    0x00008fa9     0x14e5 uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_c.o
+ .debug_info    0x0000a48e     0x1598 uCOS-III\Source\os_cfg_app.o
+ .debug_info    0x0000ba26     0x2230 uCOS-III\Source\os_core.o
+ .debug_info    0x0000dc56     0x182e uCOS-III\Source\os_dbg.o
+ .debug_info    0x0000f484     0x1cde uCOS-III\Source\os_flag.o
+ .debug_info    0x00011162     0x18fc uCOS-III\Source\os_int.o
+ .debug_info    0x00012a5e     0x1932 uCOS-III\Source\os_mem.o
+ .debug_info    0x00014390     0x194c uCOS-III\Source\os_msg.o
+ .debug_info    0x00015cdc     0x1add uCOS-III\Source\os_mutex.o
+ .debug_info    0x000177b9     0x13e9 uCOS-III\Source\os_prio.o
+ .debug_info    0x00018ba2     0x1c17 uCOS-III\Source\os_q.o
+ .debug_info    0x0001a7b9     0x1be8 uCOS-III\Source\os_sem.o
+ .debug_info    0x0001c3a1     0x194d uCOS-III\Source\os_stat.o
+ .debug_info    0x0001dcee     0x217e uCOS-III\Source\os_task.o
+ .debug_info    0x0001fe6c     0x19cf uCOS-III\Source\os_tick.o
+ .debug_info    0x0002183b     0x198a uCOS-III\Source\os_time.o
+ .debug_info    0x000231c5     0x1c8d uCOS-III\Source\os_tmr.o
+ .debug_info    0x00024e52     0x1466 uCOS-III\Source\os_var.o
 
 .debug_abbrev   0x00000000     0x2e77
  .debug_abbrev  0x00000000      0x1ce BSP\ST\STM32\src\stm32f10x_flash.o
@@ -3674,90 +3674,90 @@ OUTPUT(TemplateProject.elf elf32-littlearm)
  .debug_ranges  0x00000c80       0x38 uCOS-III\Source\os_time.o
  .debug_ranges  0x00000cb8       0x78 uCOS-III\Source\os_tmr.o
 
-.debug_line     0x00000000     0x6f6d
- .debug_line    0x00000000      0x34e BSP\ST\STM32\src\stm32f10x_flash.o
- .debug_line    0x0000034e      0x2a6 BSP\ST\STM32\src\stm32f10x_gpio.o
- .debug_line    0x000005f4      0x4a5 BSP\ST\STM32\src\stm32f10x_rcc.o
- .debug_line    0x00000a99       0xda BSP\TrueSTUDIO\cstartup.o
- .debug_line    0x00000b73      0x480 BSP\bsp.o
- .debug_line    0x00000ff3      0x78d BSP\bsp_int.o
- .debug_line    0x00001780      0x383 src\app.o
- .debug_line    0x00001b03       0x73 uC-CPU\ARM-Cortex-M3\GNU\cpu_a.o
- .debug_line    0x00001b76      0x39c uC-CPU\cpu_core.o
- .debug_line    0x00001f12      0x683 uC-LIB\lib_mem.o
- .debug_line    0x00002595       0x9d uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_a.o
- .debug_line    0x00002632      0x2f7 uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_c.o
- .debug_line    0x00002929      0x1ec uCOS-III\Source\os_cfg_app.o
- .debug_line    0x00002b15      0x785 uCOS-III\Source\os_core.o
- .debug_line    0x0000329a      0x22e uCOS-III\Source\os_dbg.o
- .debug_line    0x000034c8      0x61e uCOS-III\Source\os_flag.o
- .debug_line    0x00003ae6      0x2f2 uCOS-III\Source\os_int.o
- .debug_line    0x00003dd8      0x2e0 uCOS-III\Source\os_mem.o
- .debug_line    0x000040b8      0x2b5 uCOS-III\Source\os_msg.o
- .debug_line    0x0000436d      0x548 uCOS-III\Source\os_mutex.o
- .debug_line    0x000048b5      0x23d uCOS-III\Source\os_prio.o
- .debug_line    0x00004af2      0x4e5 uCOS-III\Source\os_q.o
- .debug_line    0x00004fd7      0x49c uCOS-III\Source\os_sem.o
- .debug_line    0x00005473      0x318 uCOS-III\Source\os_stat.o
- .debug_line    0x0000578b      0x9ff uCOS-III\Source\os_task.o
- .debug_line    0x0000618a      0x383 uCOS-III\Source\os_tick.o
- .debug_line    0x0000650d      0x3cd uCOS-III\Source\os_time.o
- .debug_line    0x000068da      0x4dd uCOS-III\Source\os_tmr.o
- .debug_line    0x00006db7      0x1b6 uCOS-III\Source\os_var.o
+.debug_line     0x00000000     0x68ab
+ .debug_line    0x00000000      0x33c BSP\ST\STM32\src\stm32f10x_flash.o
+ .debug_line    0x0000033c      0x294 BSP\ST\STM32\src\stm32f10x_gpio.o
+ .debug_line    0x000005d0      0x493 BSP\ST\STM32\src\stm32f10x_rcc.o
+ .debug_line    0x00000a63       0xda BSP\TrueSTUDIO\cstartup.o
+ .debug_line    0x00000b3d      0x416 BSP\bsp.o
+ .debug_line    0x00000f53      0x735 BSP\bsp_int.o
+ .debug_line    0x00001688      0x323 src\app.o
+ .debug_line    0x000019ab       0x73 uC-CPU\ARM-Cortex-M3\GNU\cpu_a.o
+ .debug_line    0x00001a1e      0x378 uC-CPU\cpu_core.o
+ .debug_line    0x00001d96      0x64d uC-LIB\lib_mem.o
+ .debug_line    0x000023e3       0x9d uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_a.o
+ .debug_line    0x00002480      0x2af uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_c.o
+ .debug_line    0x0000272f      0x1a4 uCOS-III\Source\os_cfg_app.o
+ .debug_line    0x000028d3      0x73d uCOS-III\Source\os_core.o
+ .debug_line    0x00003010      0x1e6 uCOS-III\Source\os_dbg.o
+ .debug_line    0x000031f6      0x5d6 uCOS-III\Source\os_flag.o
+ .debug_line    0x000037cc      0x2aa uCOS-III\Source\os_int.o
+ .debug_line    0x00003a76      0x298 uCOS-III\Source\os_mem.o
+ .debug_line    0x00003d0e      0x26d uCOS-III\Source\os_msg.o
+ .debug_line    0x00003f7b      0x500 uCOS-III\Source\os_mutex.o
+ .debug_line    0x0000447b      0x1f5 uCOS-III\Source\os_prio.o
+ .debug_line    0x00004670      0x49d uCOS-III\Source\os_q.o
+ .debug_line    0x00004b0d      0x454 uCOS-III\Source\os_sem.o
+ .debug_line    0x00004f61      0x2d0 uCOS-III\Source\os_stat.o
+ .debug_line    0x00005231      0x9b7 uCOS-III\Source\os_task.o
+ .debug_line    0x00005be8      0x33b uCOS-III\Source\os_tick.o
+ .debug_line    0x00005f23      0x385 uCOS-III\Source\os_time.o
+ .debug_line    0x000062a8      0x495 uCOS-III\Source\os_tmr.o
+ .debug_line    0x0000673d      0x16e uCOS-III\Source\os_var.o
 
-.debug_str      0x00000000     0x53dd
- .debug_str     0x00000000      0x4fa BSP\ST\STM32\src\stm32f10x_flash.o
-                                0x54b (size before relaxing)
- .debug_str     0x000004fa      0x360 BSP\ST\STM32\src\stm32f10x_gpio.o
-                                0x4df (size before relaxing)
- .debug_str     0x0000085a      0x5d7 BSP\ST\STM32\src\stm32f10x_rcc.o
-                                0x792 (size before relaxing)
- .debug_str     0x00000e31     0x135d BSP\bsp.o
-                               0x17a1 (size before relaxing)
- .debug_str     0x0000218e      0x5db BSP\bsp_int.o
-                               0x1ad1 (size before relaxing)
- .debug_str     0x00002769      0xd23 src\app.o
-                               0x2223 (size before relaxing)
- .debug_str     0x0000348c      0x2dc uC-CPU\cpu_core.o
-                                0x57d (size before relaxing)
- .debug_str     0x00003768      0x7f6 uC-LIB\lib_mem.o
-                                0xafb (size before relaxing)
- .debug_str     0x00003f5e      0x123 uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_c.o
-                               0x11fe (size before relaxing)
- .debug_str     0x00004081       0x53 uCOS-III\Source\os_cfg_app.o
-                               0x1106 (size before relaxing)
- .debug_str     0x000040d4      0x354 uCOS-III\Source\os_core.o
-                               0x20b4 (size before relaxing)
- .debug_str     0x00004428      0x4ec uCOS-III\Source\os_dbg.o
-                               0x159f (size before relaxing)
- .debug_str     0x00004914      0x11d uCOS-III\Source\os_flag.o
-                               0x1e8d (size before relaxing)
- .debug_str     0x00004a31       0x83 uCOS-III\Source\os_int.o
-                               0x1dc7 (size before relaxing)
- .debug_str     0x00004ab4       0x80 uCOS-III\Source\os_mem.o
-                               0x1db4 (size before relaxing)
- .debug_str     0x00004b34       0x8c uCOS-III\Source\os_msg.o
-                               0x1dbb (size before relaxing)
- .debug_str     0x00004bc0       0xd0 uCOS-III\Source\os_mutex.o
-                               0x1e33 (size before relaxing)
- .debug_str     0x00004c90       0x65 uCOS-III\Source\os_prio.o
-                               0x111d (size before relaxing)
- .debug_str     0x00004cf5       0xb8 uCOS-III\Source\os_q.o
-                               0x1e47 (size before relaxing)
- .debug_str     0x00004dad       0xbe uCOS-III\Source\os_sem.o
-                               0x1e32 (size before relaxing)
- .debug_str     0x00004e6b       0xa4 uCOS-III\Source\os_stat.o
-                               0x1deb (size before relaxing)
- .debug_str     0x00004f0f      0x1ed uCOS-III\Source\os_task.o
-                               0x1fb7 (size before relaxing)
- .debug_str     0x000050fc       0xc9 uCOS-III\Source\os_tick.o
-                               0x1e2b (size before relaxing)
- .debug_str     0x000051c5       0xb4 uCOS-III\Source\os_time.o
-                               0x1dd7 (size before relaxing)
- .debug_str     0x00005279      0x148 uCOS-III\Source\os_tmr.o
-                               0x1e9b (size before relaxing)
- .debug_str     0x000053c1       0x1c uCOS-III\Source\os_var.o
-                               0x10cf (size before relaxing)
+.debug_str      0x00000000     0x53cb
+ .debug_str     0x00000000      0x4e8 BSP\ST\STM32\src\stm32f10x_flash.o
+                                0x539 (size before relaxing)
+ .debug_str     0x000004e8      0x360 BSP\ST\STM32\src\stm32f10x_gpio.o
+                                0x4cd (size before relaxing)
+ .debug_str     0x00000848      0x5d7 BSP\ST\STM32\src\stm32f10x_rcc.o
+                                0x780 (size before relaxing)
+ .debug_str     0x00000e1f     0x135d BSP\bsp.o
+                               0x178f (size before relaxing)
+ .debug_str     0x0000217c      0x5db BSP\bsp_int.o
+                               0x1abf (size before relaxing)
+ .debug_str     0x00002757      0xd23 src\app.o
+                               0x2211 (size before relaxing)
+ .debug_str     0x0000347a      0x2dc uC-CPU\cpu_core.o
+                                0x56b (size before relaxing)
+ .debug_str     0x00003756      0x7f6 uC-LIB\lib_mem.o
+                                0xae9 (size before relaxing)
+ .debug_str     0x00003f4c      0x123 uCOS-III\Ports\ARM-Cortex-M3\Generic\GNU\os_cpu_c.o
+                               0x11ec (size before relaxing)
+ .debug_str     0x0000406f       0x53 uCOS-III\Source\os_cfg_app.o
+                               0x10f4 (size before relaxing)
+ .debug_str     0x000040c2      0x354 uCOS-III\Source\os_core.o
+                               0x20a2 (size before relaxing)
+ .debug_str     0x00004416      0x4ec uCOS-III\Source\os_dbg.o
+                               0x158d (size before relaxing)
+ .debug_str     0x00004902      0x11d uCOS-III\Source\os_flag.o
+                               0x1e7b (size before relaxing)
+ .debug_str     0x00004a1f       0x83 uCOS-III\Source\os_int.o
+                               0x1db5 (size before relaxing)
+ .debug_str     0x00004aa2       0x80 uCOS-III\Source\os_mem.o
+                               0x1da2 (size before relaxing)
+ .debug_str     0x00004b22       0x8c uCOS-III\Source\os_msg.o
+                               0x1da9 (size before relaxing)
+ .debug_str     0x00004bae       0xd0 uCOS-III\Source\os_mutex.o
+                               0x1e21 (size before relaxing)
+ .debug_str     0x00004c7e       0x65 uCOS-III\Source\os_prio.o
+                               0x110b (size before relaxing)
+ .debug_str     0x00004ce3       0xb8 uCOS-III\Source\os_q.o
+                               0x1e35 (size before relaxing)
+ .debug_str     0x00004d9b       0xbe uCOS-III\Source\os_sem.o
+                               0x1e20 (size before relaxing)
+ .debug_str     0x00004e59       0xa4 uCOS-III\Source\os_stat.o
+                               0x1dd9 (size before relaxing)
+ .debug_str     0x00004efd      0x1ed uCOS-III\Source\os_task.o
+                               0x1fa5 (size before relaxing)
+ .debug_str     0x000050ea       0xc9 uCOS-III\Source\os_tick.o
+                               0x1e19 (size before relaxing)
+ .debug_str     0x000051b3       0xb4 uCOS-III\Source\os_time.o
+                               0x1dc5 (size before relaxing)
+ .debug_str     0x00005267      0x148 uCOS-III\Source\os_tmr.o
+                               0x1e89 (size before relaxing)
+ .debug_str     0x000053af       0x1c uCOS-III\Source\os_var.o
+                               0x10bd (size before relaxing)
 
 .comment        0x00000000       0x7c
  .comment       0x00000000       0x7c BSP\ST\STM32\src\stm32f10x_flash.o
@@ -3814,10 +3814,10 @@ OUTPUT(TemplateProject.elf elf32-littlearm)
  .debug_frame   0x000033c8      0x120 uCOS-III\Source\os_tick.o
  .debug_frame   0x000034e8       0xec uCOS-III\Source\os_time.o
  .debug_frame   0x000035d4      0x220 uCOS-III\Source\os_tmr.o
- .debug_frame   0x000037f4       0x2c d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x000037f4       0x2c d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
 
 .stabstr        0x00000000       0x3f
- .stabstr       0x00000000       0x3f d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+ .stabstr       0x00000000       0x3f d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
 
 Cross Reference Table
 
@@ -5527,25 +5527,25 @@ __SETFAULTMASK                                    BSP\ST\STM32\src\stm32f10x_nvi
 __SETPRIMASK                                      BSP\ST\STM32\src\stm32f10x_nvic.o
 __WFE                                             BSP\ST\STM32\src\stm32f10x_pwr.o
 __WFI                                             BSP\ST\STM32\src\stm32f10x_pwr.o
-__deregister_frame_info                           d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
-__dso_handle                                      d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
-__init_array_end                                  d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
-__init_array_start                                d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
-__libc_init_array                                 d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+__deregister_frame_info                           d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+__dso_handle                                      d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+__init_array_end                                  d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+__init_array_start                                d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+__libc_init_array                                 d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
                                                   BSP\TrueSTUDIO\cstartup.o
-__preinit_array_end                               d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
-__preinit_array_start                             d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
-__register_frame_info                             d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
+__preinit_array_end                               d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+__preinit_array_start                             d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+__register_frame_info                             d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crtbegin.o
 _ebss                                             BSP\TrueSTUDIO\cstartup.o
 _edata                                            BSP\TrueSTUDIO\cstartup.o
 _estack                                           BSP\TrueSTUDIO\cstartup.o
-_fini                                             d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
-_init                                             d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
-                                                  d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
+_fini                                             d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
+_init                                             d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7-m/crti.o
+                                                  d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-init.o)
 _sbss                                             BSP\TrueSTUDIO\cstartup.o
 _sdata                                            BSP\TrueSTUDIO\cstartup.o
 _sidata                                           BSP\TrueSTUDIO\cstartup.o
-_write                                            d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+_write                                            d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
                                                   src\tiny_printf.o
 com1ReciveBuff                                    BSP\bsp_uart.o
 com1SendBuff                                      BSP\bsp_uart.o
@@ -5553,8 +5553,8 @@ com2ReciveBuff                                    BSP\bsp_uart.o
 com2SendBuff                                      BSP\bsp_uart.o
 com4ReciveBuff                                    BSP\bsp_uart.o
 com4SendBuff                                      BSP\bsp_uart.o
-errno                                             d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
-                                                  d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
+errno                                             d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(errno.o)
+                                                  d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libnosys.a(write.o)
 fiprintf                                          src\tiny_printf.o
 fprintf                                           src\tiny_printf.o
 fputs                                             src\tiny_printf.o
@@ -5563,14 +5563,14 @@ g_pfnVectors                                      BSP\TrueSTUDIO\cstartup.o
 iprintf                                           src\tiny_printf.o
 main                                              src\app.o
                                                   BSP\TrueSTUDIO\cstartup.o
-memset                                            d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
+memset                                            d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-memset.o)
                                                   uC-LIB\lib_fifo.o
 printf                                            src\tiny_printf.o
 puts                                              src\tiny_printf.o
 sUart_base_info                                   BSP\bsp_uart.o
 siprintf                                          src\tiny_printf.o
 sprintf                                           src\tiny_printf.o
-strlen                                            d:/program files (x86)/atollic/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
+strlen                                            d:/program files (x86)/truestudio for arm 8.0.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv7-m\libc_nano.a(lib_a-strlen.o)
                                                   src\tiny_printf.o
 ts_formatlength                                   src\tiny_printf.o
 ts_formatstring                                   src\tiny_printf.o
